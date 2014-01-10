@@ -1,0 +1,45 @@
+---
+layout: post
+title: "form test"
+date: 2013-08-30 17:13
+comments: true
+categories: 
+---
+# This is a google Form  
+_______________________________________________________  
+
+<form action="https://docs.google.com/forms/d/1u4BETDSe-St9BDJQ6Jbjel9Rk34ePjbFRmoouFCZoBw/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol style="padding-left: 0">
+<div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item  ss-radio"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_606243871"><div class="ss-q-title">First Field
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr">multiple</div></label>
+
+<ul class="ss-choices"><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.622708363" value="choice 1" id="group_622708363_1" class="ss-q-radio" aria-label="choice 1"></span>
+<span class="ss-choice-label">choice 1</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.622708363" value="choice 2" id="group_622708363_2" class="ss-q-radio" aria-label="choice 2"></span>
+<span class="ss-choice-label">choice 2</span>
+</label></li></ul>
+<div class="error-message"></div>
+<div class="required-message">This is a required question</div>
+</div></div></div> <div class="ss-form-question errorbox-good">
+<div dir="ltr" class="ss-item  ss-grid"><div class="ss-form-entry"><label class="ss-q-item-label" for="entry_1625797195"><div class="ss-q-title">grid
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<div>
+<table border="0" cellpadding="5" cellspacing="0"><thead><tr><td class="ss-gridnumbers ss-gridrow-leftlabel"></td>
+<td class="ss-gridnumbers" style="width: 33%;"><label class="ss-gridnumber">good</label></td> <td class="ss-gridnumbers" style="width: 33%;"><label class="ss-gridnumber">bad</label></td></tr></thead>
+<tbody><tr class="ss-gridrow ss-grid-row-odd"><td class="ss-gridrow ss-gridrow-leftlabel">wheels</td>
+<td class="ss-gridrow" style="width: 33%;"><div class="ss-grid-button-wrapper"><input type="radio" name="entry.360010079" value="good" id="group_360010079_1" class="ss-q-radio" aria-label="good"></div></td> <td class="ss-gridrow" style="width: 33%;"><div class="ss-grid-button-wrapper"><input type="radio" name="entry.360010079" value="bad" id="group_360010079_2" class="ss-q-radio" aria-label="bad"></div></td></tr></tbody></table>
+<div class="required-message">This is a required question</div></div>
+</div></div></div>
+<input type="hidden" name="draftResponse" value="[]
+">
+<input type="hidden" name="pageHistory" value="0">
+
+
+<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+<input type="submit" name="submit" value="Submit" id="ss-submit">
+<div class="ss-secondary-text">Never submit passwords through Google Forms.</div></td>
+</tr></tbody></table></div></ol></form>
+
+
